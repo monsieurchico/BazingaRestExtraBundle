@@ -1,5 +1,5 @@
 {
-    "name": "manomano/willdurand-rest-extra-bundle",
+    "name": "willdurand/rest-extra-bundle",
     "description": "This bundle provides extra features for your REST APIs built using Symfony2.",
     "keywords": [ "rest", "api" ],
     "type": "symfony-bundle",
